@@ -2,7 +2,12 @@ target/
 .idea/
 *.iml
 TrackGoSoftApp/src/main/resources/db.properties
+TrackGoSoft/TrackGoSoft/TrackGoSoftApp/src/main/resources/db.properties
+TrackGoSoft/TrackGoSoft/TrackGoSoftPersistencia/src/main/resources/db.properties
 
+target/
+.idea/
+*.iml
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
