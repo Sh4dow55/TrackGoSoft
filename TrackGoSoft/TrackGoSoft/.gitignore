@@ -1,4 +1,9 @@
 target/
+.idea/
+*.iml
+TrackGoSoftApp/src/main/resources/db.properties
+
+target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
